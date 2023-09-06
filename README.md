@@ -8,4 +8,4 @@ Association Analysis를 위한 Apriori 알고리즘 구현
 Classification을 위한 Decision Tree 구현
 
 ## Assignment3
-Clusteringm=을 위한 DBSCAN 알고리즘 구현
+Clustering을 위한 DBSCAN 알고리즘 구현
